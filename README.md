@@ -1,10 +1,10 @@
 # Euroschool on Exotic Beams 2026 - Leuven, Belgium
 
-Git repository containing Tuesday's activity for the Euroschool on Exotic Beams
+Git repository containing Wednesday's activity for the Euroschool on Exotic Beams
 2026 in Leuven, Belgium.
 
 
-## Summary of the lecture
+## Summary of the lectures
 
 Nuclear physics processes have powered the creation of elements since the Bing
 Bang. The creation of all chemical elements found in nature is called
@@ -21,5 +21,3 @@ physics properties in the creation of elements.
 ## Launch on Binder without installing anything!
 
 The Jupyter Notebook can be run from Binder:
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sagiuliani/NS3_2020.git/master?filepath=notebook%2Fmasses.ipynb)
