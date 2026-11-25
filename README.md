@@ -8,3 +8,4 @@ Git repository containing Wednesday's hands-on activity for the Euroschool on Ex
 The Jupyter Notebook can be run from Binder:
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sagiuliani/euroschool2026/87ad72cf823103ac1179728ad51a92dee1f24e0d?urlpath=lab%2Ftree%2Fnotebook%2Fmasses.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sagiuliani/euroschool2026/efb7054cf3cd18bc3814a7853bb6cfc3c3106a37?urlpath=lab%2Ftree%2Fnotebook%2Fmasses.ipynb)
